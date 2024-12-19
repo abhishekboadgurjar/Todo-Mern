@@ -43,7 +43,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/abhishekgurjar-in/Todo-Mern.git
+   git clone https://github.com/abhishekboadgurjar/Todo-Mern.git
    cd Todo-Mern
    ```
 
@@ -118,4 +118,4 @@ Ensure you have the following installed:
 
 ## Author
 
-Developed by [Abhishek Gurjar](https://github.com/abhishekgurjar-in). Contributions and feedback are welcome! 😊
+Developed by [Abhishek Gurjar](https://github.com/abhishekboadgurjar). Contributions and feedback are welcome! 😊
